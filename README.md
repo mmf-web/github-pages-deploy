@@ -9,4 +9,4 @@
 8. Открыть её и перейти по ссылке, убедиться, что все работает
 9. Теперь, можно вернуться на главную страницу репозитория, и, возле About, нажать на шестеренку и заполнить поле website ссылкой на наш сайт
 
-Ссылка на данный сайт: [https://mmf-web.github.io/github-pages-deploy/](https://mmf-web.github.io/github-pages-deploy/)
+Ссылка на данный сайт: [https://mmf-web.github.io/demo-github-pages-deploy/](https://mmf-web.github.io/demo-github-pages-deploy/)
